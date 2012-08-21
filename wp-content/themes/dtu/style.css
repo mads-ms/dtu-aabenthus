@@ -1,0 +1,11 @@
+/*
+Theme Name:     DTU Åbent Hus
+Theme URI:      http://plantcph.dk
+Description:    Child theme for the boilerplate theme 
+Author:         Plant
+Author URI:     http://plantcph.dk
+Template:       boilerplate
+Version:        0.1.0
+*/
+@import url("../boilerplate/style.css");
+
